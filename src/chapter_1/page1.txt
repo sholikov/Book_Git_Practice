@@ -1,0 +1,13 @@
+
+This the first page of the chapter 1
+
+This is our book.
+
+Dear SDETs are you ready?
+
+
+whole name: page1.txt
+
+Created a new project
+Created a new package called chapter_1
+Created a new text file called page1
